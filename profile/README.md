@@ -1,0 +1,3 @@
+# Pargon - A suite of tools, free to access by anyone.
+## What/Who we are:
+Hi there! Welcome to Paragon. We hope you like it around here...
