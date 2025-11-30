@@ -13,5 +13,3 @@ Like many other programs, such as Shutterstock, Istock, and Pngtree, we offer a 
 An (extremely) simple soulution for finding 3d assets or tutorials. Web based, this tool can be used on any internet connected platform.
 ### Blocky text:
 Designed for young coders learning text-based languages, this simple Python library makes syntax appear similar to Scratch, an MIT visual coding language.
-## Contact us!
-We would love to hear from you! Contact us at paragonsuite@proton.me
