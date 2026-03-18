@@ -11,5 +11,3 @@ A simple task app. More features coming soon!
 Like many other programs, such as Shutterstock, Istock, and Pngtree, we offer a wide range of images, free to download. But, unlike these programs, all the images are copyright-free, are free to download, and require **ZERO** attribution. You are allowed to download **AS MANY** images as you would like, and our Pro version simply allows you to access commenting on big image releases.
 ### AssetCloud:
 An (extremely) simple soulution for finding 3d assets or tutorials. Web based, this tool can be used on any internet connected platform.
-### Blocky text:
-Designed for young coders learning text-based languages, this simple Python library makes syntax appear similar to Scratch, an MIT visual coding language.
